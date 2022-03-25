@@ -1,4 +1,3 @@
-### Hi there 👋
 <a href="#"><img width="100%" height="auto" src="https://images.theconversation.com/files/121656/original/image-20160509-23367-kxbc3k.jpg?ixlib=rb-1.1.0&rect=345%2C0%2C2178%2C1059&q=45&auto=format&w=1356&h=668&fit=crop" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bokisha</h1>
